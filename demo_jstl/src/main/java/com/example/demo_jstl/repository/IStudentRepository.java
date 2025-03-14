@@ -1,4 +1,4 @@
 package com.example.demo_jstl.repository;
 
-public class IStudentRepository {
+public interface IStudentRepository {
 }
